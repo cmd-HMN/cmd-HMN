@@ -13,9 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cmd-HMN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmd-HMN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# LeetCode:
-[![Leetcode Stats]](https://leetcode.com//u/_HMN_/)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
