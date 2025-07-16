@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-  🔥 Data Scientits & AI & ML<br>
-  🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
+  ### 🔥 Data Scientits & AI & ML<br>
+  ### 🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
 -----------------
 
-#Life Sucks
+          #LifeSucks#AI#ML#SaveMe#Math
 
 ---
 
