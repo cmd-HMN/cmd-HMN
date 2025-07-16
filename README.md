@@ -4,7 +4,7 @@
   ### 🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
 -----------------
 
-          #LifeSucks#AI#ML#SaveMe#Math
+#LifeSucks#AI#ML#SaveMe#Math
 
 ---
 
