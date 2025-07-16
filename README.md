@@ -1,28 +1,28 @@
 # 💫 About Me:
-🔥 Data Scientits & AI & ML<br>
-🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
+
+  🔥 Data Scientits & AI & ML<br>
+  🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
 -----------------
 
------------------ Life Sucks -----------------------------
+#Life Sucks
 
---------------
 ---
 
 # ❤️ Daily use:
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## 🌐 Socials:
 
-### Active one
+### Active one 🟢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-muhammad-noor)
 
-### Not much of a use
+### Not much of a use 🟡
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_a_tech__guy)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable-Bug-00)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554570064315)
@@ -39,12 +39,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-"Do we count html as a languauge.........???"
+---
+
+*"Do we count html as a languauge.........???"*
 
 ---
 
-
-# 🧩 Some Side Knowledge (aka "yeah I touched that once 😅"):
+# 🧩 Some Side Knowledge:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -57,6 +58,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=cmd-HMN&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Powered by caffeine and late night wonderning why i choose to live like this........-->
+#### Powered by caffeine and late night wonderning why i choose to live like this
