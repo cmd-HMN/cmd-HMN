@@ -1,12 +1,9 @@
 # 💫 About Me:
 
-  ### 🔥 Data Scientits & AI & ML<br>
-  ### 🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
+### 🔥 Data Scientits & AI & ML<br>
+### 🤙🏻 Homies -> Python, PyTorch, and TensorFlow😎<br>
 -----------------
 
-#LifeSucks#AI#ML#SaveMe#Math
-
----
 
 # ❤️ Daily use:
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -58,4 +55,10 @@
 
 ---
 
+# !I use arch btw! 
+
+---
+
 #### Powered by caffeine and late night wonderning why i choose to live like this
+
+#LifeSucks#AI#ML#SaveMe#Math
