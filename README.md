@@ -12,7 +12,6 @@
 
 # !I use arch btw! 
 
----
 
 #### Powered by caffeine and late night wonderning why i choose to live like this
 
