@@ -1,0 +1,83 @@
+name: Update Discord Profile
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update Discord Username via Lanyard
+        env:
+          DISCORD_USER_ID: "1369972455149670430"
+          DISCORD_INVITE: "https://discord.gg/djP4tsAq"
+        run: |
+          python - << 'EOF'
+          import os
+          import re
+          import json
+          import urllib.request
+
+          user_id = os.environ.get("DISCORD_USER_ID", "1369972455149670430")
+          invite_link = os.environ.get("DISCORD_INVITE", "https://discord.gg/djP4tsAq")
+
+          url = f"https://api.lanyard.rest/v1/users/{user_id}"
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+
+          try:
+              with urllib.request.urlopen(req, timeout=10) as resp:
+                  data = json.loads(resp.read().decode())
+                  if not data.get("success"):
+                      print("Lanyard returned unsuccessful response:", data)
+                      exit(1)
+
+                  d_user = data["data"]["discord_user"]
+                  username = d_user.get("global_name") or d_user.get("display_name") or d_user.get("username")
+                  print(f"Current Discord Name: {username}")
+
+                  readme_path = "README.md"
+                  with open(readme_path, "r", encoding="utf-8") as f:
+                      content = f.read()
+
+                  replacement = f"<!-- DISCORD_START -->\n- **Discord:** [{username}]({invite_link})\n<!-- DISCORD_END -->"
+                  pattern = r"<!-- DISCORD_START -->[\s\S]*?<!-- DISCORD_END -->"
+
+                  if re.search(pattern, content):
+                      new_content = re.sub(pattern, replacement, content)
+                      with open(readme_path, "w", encoding="utf-8") as f:
+                          f.write(new_content)
+                      print("Successfully updated README.md")
+                  else:
+                      print("Warning: Discord markers not found in README.md")
+          except Exception as e:
+              print("Failed to fetch/update from Lanyard:", e)
+              exit(1)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore: update discord username [skip ci]"
+            git push
+          fi

@@ -3,7 +3,9 @@
 - How was the weather today?
 
 ## Social 
-- **Discord:** [cmd.hmn.exe](https://discord.gg/djP4tsAq)
+<!-- DISCORD_START -->
+- **Discord:** [hot.biryani](https://discord.gg/djP4tsAq)
+<!-- DISCORD_END -->
 - **Reddit:** [user/Remarkable-Bug-00](https://www.reddit.com/user/Remarkable-Bug-00/)
 - **LinkedIn:** [in/hafiz-muhammad-noor](https://linkedin.com/in/hafiz-muhammad-noor)
 - **Kaggle:** [cmdhmn](https://www.kaggle.com/cmdhmn)
