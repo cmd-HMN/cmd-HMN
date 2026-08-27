@@ -55,7 +55,7 @@ jobs:
                   with open(readme_path, "r", encoding="utf-8") as f:
                       content = f.read()
 
-                  replacement = f"<!-- DISCORD_START -->\n- **Discord:** [{username}]({invite_link})\n<!-- DISCORD_END -->"
+                  replacement = f"<!-- DISCORD_START -->- **Discord:** [{username}]({invite_link})<!-- DISCORD_END -->"
                   pattern = r"<!-- DISCORD_START -->[\s\S]*?<!-- DISCORD_END -->"
 
                   if re.search(pattern, content):
