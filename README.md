@@ -1,5 +1,6 @@
 ## About Me
 - Running Linux with a [Caelastrial-Hyprland](https://github.com/caelestia-dots/caelestia) setup
+- cooking.......AAAAAAAHGHH burned it 😭
 
 ## Social
 - **Discord:** <!-- DISCORD_START -->[hot.biryani](https://discord.gg/QvHBsJHrdx)<!-- DISCORD_END -->
@@ -9,7 +10,7 @@
 - **Website:** [hafiz-muhammad-noor](https://hafiz-muhammad-noor.site/?ref=github)
 ---
 
-# I use arch btw!
+# !I use arch btw!
 
 #### Powered by caffeine and late night wonderning why i choose to live like this
 
