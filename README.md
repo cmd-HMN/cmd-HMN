@@ -3,7 +3,7 @@
 - cooking.......AAAAAAAHGHH burned it 😭
 
 ## Social
-- **Discord:** <!-- DISCORD_START -->[hot.biryani](https://discord.gg/QvHBsJHrdx)<!-- DISCORD_END -->
+- **Discord:** <!-- DISCORD_START -->[گرم چائے](https://discord.gg/QvHBsJHrdx)<!-- DISCORD_END -->
 - **Reddit:** [user/Remarkable-Bug-00](https://www.reddit.com/user/Remarkable-Bug-00/)
 - **LinkedIn:** [in/hafiz-muhammad-noor](https://linkedin.com/in/hafiz-muhammad-noor)
 - **Kaggle:** [cmdhmn](https://www.kaggle.com/cmdhmn)
